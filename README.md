@@ -27,9 +27,6 @@ This is a web application that allows users to monitor stocks using the IEX Clou
 
 ## Contributors
 
-- [Your Name](https://github.com/juanpabblo16)
+- [Juan Pablol Acevedo](https://github.com/juanpabblo16)
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
