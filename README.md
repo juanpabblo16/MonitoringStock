@@ -20,10 +20,7 @@ This is a web application that allows users to monitor stocks using the IEX Clou
 
 ## Technology Used
 
-- Node.js
-- Express.js
-- HTML/CSS/JavaScript
-- Bootstrap
+- JavaScript
 
 ## Contributors
 
